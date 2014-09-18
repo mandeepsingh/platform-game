@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="/star-assault/libs/gdx.jar" sourcepath="/star-assault/libs/gdx-sources.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/star-assault"/>
+	<classpathentry exported="true" kind="lib" path="C:/android/libraries/tween-engine-api-6.3.0/tween-engine-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/android/libraries/tween-engine-api-6.3.0/tween-engine-api-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

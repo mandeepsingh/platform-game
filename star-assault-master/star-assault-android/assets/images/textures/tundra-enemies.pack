@@ -1,0 +1,61 @@
+
+tundra-enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snailWalk1
+  rotate: false
+  xy: 1, 59
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+snailWalk2
+  rotate: false
+  xy: 57, 59
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+bat_fly
+  rotate: false
+  xy: 116, 53
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+snail_hit
+  rotate: false
+  xy: 206, 50
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 1, 10
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+bat_hang
+  rotate: false
+  xy: 73, 9
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+bat_dead
+  rotate: false
+  xy: 113, 4
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+bat_hit
+  rotate: false
+  xy: 185, 1
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1

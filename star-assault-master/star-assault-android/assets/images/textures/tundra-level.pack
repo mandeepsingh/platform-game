@@ -1,0 +1,320 @@
+
+tundra-level.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boxAlt
+  rotate: false
+  xy: 1, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+boxItem
+  rotate: false
+  xy: 1, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+bridge
+  rotate: false
+  xy: 73, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+bridgeLogs
+  rotate: false
+  xy: 1, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+deadTree
+  rotate: false
+  xy: 73, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pineSapling
+  rotate: false
+  xy: 145, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+pineSaplingAlt
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 73, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 145, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rockAlt
+  rotate: false
+  xy: 217, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rockSnowTop
+  rotate: false
+  xy: 73, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowHalf
+  rotate: false
+  xy: 145, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowHalfLeft
+  rotate: false
+  xy: 217, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowHalfMid
+  rotate: false
+  xy: 289, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowHalfRight
+  rotate: false
+  xy: 145, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowhill
+  rotate: false
+  xy: 217, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowLeft
+  rotate: false
+  xy: 289, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowMid
+  rotate: false
+  xy: 361, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snowRight
+  rotate: false
+  xy: 217, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+stoneCenter
+  rotate: false
+  xy: 289, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+stoneCenter_rounded
+  rotate: false
+  xy: 361, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 433, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesLeft
+  rotate: false
+  xy: 289, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesLeftAlt
+  rotate: false
+  xy: 361, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesLeftSnowAlt
+  rotate: false
+  xy: 433, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesRight
+  rotate: false
+  xy: 505, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesSnowLeft
+  rotate: false
+  xy: 361, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesSnowRight
+  rotate: false
+  xy: 433, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesSnowRightAlt
+  rotate: false
+  xy: 505, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeBranchesSnowRightSnowAlt
+  rotate: false
+  xy: 577, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTop
+  rotate: false
+  xy: 433, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTopSnow
+  rotate: false
+  xy: 505, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTrunk
+  rotate: false
+  xy: 577, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTrunkBottom
+  rotate: false
+  xy: 649, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTrunkBottomAlt
+  rotate: false
+  xy: 505, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTrunkBottomAlt2
+  rotate: false
+  xy: 577, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+treeTrunkBottomAlt3
+  rotate: false
+  xy: 649, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraCenter
+  rotate: false
+  xy: 721, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraHalf
+  rotate: false
+  xy: 577, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraHalfLeft
+  rotate: false
+  xy: 649, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraHalfMid
+  rotate: false
+  xy: 721, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraHalfRight
+  rotate: false
+  xy: 793, 217
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraLeft
+  rotate: false
+  xy: 649, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraMid
+  rotate: false
+  xy: 721, 73
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tundraRight
+  rotate: false
+  xy: 793, 145
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
